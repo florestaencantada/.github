@@ -51,3 +51,11 @@
 </div>
 
 ###
+
+<h3 align="left">Nossos projetos</h3>
+
+###
+
+<p align="left">🌊  Laguna - toda a floresta se baseia em uma grande plataforma de dados, onde tudo executa perfeitamente com o auxílio e acompanhamento das fadas... mas no fundo usamos as mesmas tecnologias que vocês humanos usam... afinal porque vocês acham que boa parte dos mascotes dos projetos Apache são animais? Bom, mas como não temos o código de forma compreensível para o mundo de vocês, precisamos criar essa plataforma. Eu tinha começado esse projeto sob o nome de ForestLake, mas sabe que vocês me ajudarem a construir essa plataforma vai ser bem mais divertido? Então criei o projeto Laguna (o lago da floresta). A ideia é criarmos uma interface gráfica, controle de acesso e stack de infraestrutura híbrida on-premises e AWS, de forma que qualquer um possa subir a infraestrutura própria do seu próprio lakehouse AI powered<br><br>🌳 Arborea - as árvores da floresta são mágicas e executam todo tipo de processo ramificado... até porque todas árvore tem galhos né? E as árvores da floresta também podem executar agentes de IA baseados em grafos! Assim surgiu o projeto Arborea, nele vamos criar um framework básico mas completamente funcional de agentes de IA, possuindo conexão com APIs de LLM, execução de passos em grafos, utilização de memória e execução de ferramentas.<br><br>🌖  Luna - as noites na floresta encantada sempre são mágicas, pois a luz do luar é tão intensa que é lindo de se ver... diferente do movimentado dia na floresta a luz do sol, as noites sob o luar são tranquilas e muito mais simples... por isso que a simplicidade da lua nos traz a ideia de simplificar a construção de modelos de linguagem pequenos e simples, que podem executar com pouco processamento. A ideia é criarmos uma camada de abstração sob os módulos que compõem arquiteturas de modelos de linguagem permitindo criar SLMs com arquiteturas próprias, treinar modelos pequenos do zero e simplificar a aprendizagem sobre a estrutura de modelos de linguagem modernos<br><br>⭐ Astra - ainda pensando nas noites da floresta, temos a luz das estrelas que tornam a noite ainda mais calma e tranquila. Então nada melhor que complementar o framework Luna com um framework de refinamento de SLMs usando técnicas bem conhecidas e funcionais.</p>
+
+###
