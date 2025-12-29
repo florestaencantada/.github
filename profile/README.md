@@ -28,7 +28,9 @@
 
 ###
 
-<p align="left">Esse projeto foi iniciado com a vinda, há muitos anos do Sr. Raposo, arquiteto responsável por toda a tecnologia da floresta. Depois de algumas conversas com seus companheiros na floresta e com a orientação do espírito da floresta, ele teve a ideia de compartilhar nossa estrutura com vocês humanos, permitindo essa exploração guiada. Assim, nosso time de colaboradores é organizado da seguinte forma:<br><br>🌳Colaboradores e membros da floresta:<br>- Sr. Raposo<br>- Sr. Guaxinim (ajudante, aprendiz e consultor em infraestrutura)<br><br>🙋 Exploradores:<br>- Bruno Bertholdi<br>- Bruno Lembruger<br>- Joel Francisco<br>- Moisés Arruda<br>- Renan Moraes<br>- Pedro Dias</p>
+<p align="left">Esse projeto foi iniciado com a vinda, há muitos anos do Sr. Raposo, arquiteto responsável por toda a tecnologia da floresta. Depois de algumas conversas com seus companheiros na floresta e com a orientação do espírito da floresta, ele teve a ideia de compartilhar nossa estrutura com vocês humanos, permitindo essa exploração guiada. Assim, nosso time de colaboradores é organizado da seguinte forma:<br><br>🌳Colaboradores e membros da floresta:<br>- Sr. Raposo<br>- Sr. Guaxinim (ajudante, aprendiz e consultor em infraestrutura)
+  
+<br><br>🙋 Exploradores:<br>Em breve...</p>
 
 ###
 
