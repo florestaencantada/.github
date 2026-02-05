@@ -42,7 +42,10 @@ permitindo essa exploração guiada. Assim, nosso time de colaboradores é organ
 <br>- Tiago Henrique (Divulgação)
 -->
 
-<br>🙋 Exploradores:<br>Em breve...</p>
+<br>🙋 Exploradores:
+<br>- Renan de Moraes
+
+</p>
 
 ###
 
