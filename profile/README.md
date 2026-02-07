@@ -32,7 +32,7 @@
 Depois de algumas conversas com seus companheiros na floresta e com a orientação do espírito da floresta, ele teve a ideia de compartilhar nossa estrutura com vocês humanos, 
 permitindo essa exploração guiada. Assim, nosso time de colaboradores é organizado da seguinte forma:
 
-<br>🌳Membros da Floresta apoiando na operação do mundo humano:
+<br>🐾Membros da Floresta apoiando na operação do mundo humano:
 <br>- Sr. Raposo (Arquiteto principal e especialista)
 <br>- Sr. Guaxinim (Mestre do reaproveitamento de hardware / Dev em formação / Revisor)
 <br>- Sr. Cervo (Suporte operacional e revisor)
