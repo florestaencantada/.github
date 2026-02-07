@@ -38,8 +38,8 @@ permitindo essa exploração guiada. Assim, nosso time de colaboradores é organ
 <br>- Sr. Cervo (Suporte operacional e revisor)
 
 <!--<br>🌳Coloboradores humanos:
-<br>- Mari Borges (Divulgação)
-<br>- Tiago Henrique (Divulgação)
+- Mari Borges (Divulgação e Suporte)
+- Tiago Henrique (Divulgação e Suporte)
 -->
 
 <br>🙋 Exploradores:
